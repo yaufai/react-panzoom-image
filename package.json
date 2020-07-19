@@ -1,0 +1,32 @@
+{
+  "name": "react-panzoom-image",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "built/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaufai/react-panzoom-image.git"
+  },
+  "author": "Hara Yuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaufai/react-panzoom-image/issues"
+  },
+  "homepage": "https://github.com/yaufai/react-panzoom-image#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "typescript": "^3.9.6"
+  }
+}
